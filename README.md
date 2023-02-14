@@ -16,4 +16,5 @@ https://user-images.githubusercontent.com/68288615/218384061-7f8e865d-8d80-4763-
 3. Only PIGALLERY2_BASEURL_PROP is mandatory, PIGALLERY2_LOGIN_PROP and PIGALLERY2_PASSWORD_PROP are optional and needed only if you are running pigallery2 with login auth. This docker works both with and without auth enabled on pigallery2.
 4. Start the docker instance.
 5. Open Desktop browser and  and point to http://host:post/foto/  -  /foto/ is mandatory in the URL and hardcoded (for now).
-6. Open Safari on iPhone and point to http://host:post/foto/. Once loaded, you can "share/Add to Home Screen" to add as an app on iphone. 
+6. iOS: Open Safari on iPhone and point to http://host:post/foto/. Once loaded, you can "share/Add to Home Screen" to add as an app on iphone. 
+   Android (Firefox/DuckDuckGo: Open  http://host:post/foto/. Once loaded, you can use the "Add to Home Screen" menu option to add foto-gallery to your home screen as an app.
